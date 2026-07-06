@@ -1,2 +1,1 @@
-# .github
-.github for the readme
+web presence for people.sunypoly.edu/~steve
