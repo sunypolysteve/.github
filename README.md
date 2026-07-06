@@ -1,1 +1,1 @@
-web presence for people.sunypoly.edu/~steve
+web presence for https://people.sunypoly.edu/~steve
